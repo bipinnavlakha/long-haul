@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Kappa
+description: Musings on Genome Informatics, How World Works and Travel
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://bipinnavlakha.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -15,13 +15,9 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Contact
-   url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: bipinnavlakha
+   twitter: bipinnavlakha
 
 google_analytics: "UA-58263416-1"
